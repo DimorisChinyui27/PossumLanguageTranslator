@@ -1,0 +1,15 @@
+#Translates from english to nigerian fufulbe
+
+
+{
+    "source_language": "eng_Latn",
+    "targt_language": "fuv_Latn",
+    "text": "An ANCYL member who was shot and severely injured by SAP members at Lephoi, Bethulie, Orange Free State (OFS) on 17 April 1991. Police opened fire on a gathering at an ANC supporter's house following a dispute between two neighbours, one of whom was linked to the ANC and the other to the SAP and a councillor."
+}
+
+
+#Return json example
+
+{
+    "translation_text": "Gooto ANCYL mo sappoɓe SAP ɓe mbari e ɓe mbari e leñol haa Lephoi, Bethulie, Orange Free State (OFS) e 17 abriil 1991. Polisa fuɗɗi yiite dow kawtal haa wuro gooduɗo ANC ɓaawo haɓre hakkunde ɓooyi ɗiɗi, go'oto maɓɓe ɗon hawta bee ANC nden go'oto bee SAP e gomɗinal."
+}
