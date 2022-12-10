@@ -208,11 +208,6 @@ Chinese (Traditional) | zho_Hant
 Standard Malay | zsm_Latn
 Zulu | zul_Latn
 
-## Updates to Previous Languages
-* Quechua (quy_Latn)
-* Aymara (ayr_Latn)
-* Cebuano (ceb_Latn)
-* Kimbundu (kmb_Latn)
-* Umbundu (umb_Latn)
+
 
 
